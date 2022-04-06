@@ -3,3 +3,5 @@ Program made by GP_Gamer98
 To run this spambot you have to open the "words.txt" file and insert the words to be spammed
 Then save the file and run the script
 Then insert the number of seconds that the script must wait before running.
+
+Note: before executing the script you need to install Python!
