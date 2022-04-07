@@ -1,12 +1,11 @@
-from timeit import repeat
 import pyautogui
 from time import sleep
 
 sleep(0.1)
 print("Program made by GP_Gamer98")
 sleep(0.1)
-time=input("Put here the number of seconds the spam bot must wait to execute the script:  ")
-sleep(time)
+print("You have 5 seconds to open the program to be spammed (e.g. Telegram, Roblox)")
+sleep(5)
 print("KABOOM!")
 read=open("words.txt","r")
 
